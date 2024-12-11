@@ -157,7 +157,6 @@ public class GameMain extends JPanel implements MouseListener{
 				this.currentState = GameState.Draw;
 					
 			}
-			//otherwise no change to current state of playing
 		}
 		
 				
